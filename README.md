@@ -57,43 +57,46 @@ substantial positive link between the two variables.
 
 • Daily Water drinking (CH20) and Obesity Prevalence: about 70% of obese people report drink water daily, suggesting a weak positive association between the two variables.
 
- • Obesity Prevalence and Alcohol Consumption (CALC): approximately 70% of obese people report occasionally consuming alcohol, there is no substantial positive association
+ • Obesity Prevalence and Alcohol Consumption (CALC): approximately 70% of obese people report occasionally consuming alcohol, 
  
-  between the two.
+ there is no substantial positive association between the two.
 
-• Obesity Prevalence and Food Consumption Between Meals (CAEC): About 80% of obese people report consuming food between meals, suggesting a moderately favorable link          
-between the two variables.
+• Obesity Prevalence and Food Consumption Between Meals (CAEC): About 80% of obese people report consuming food between meals, 
 
-•  Monitoring of Calories Consumed (SCC) and Obesity Prevalence: approximately 87% of obese people do not track their calorie intake, indicating a strong positive              
-association between the two variables.
+suggesting a moderately favorable link between the two variables.
 
-•  pysical Activity Frequency (FAF) and Obesity Prevalence: Seventy percent of obese people report being physically active, suggesting a weak negative association between 
+•  Monitoring of Calories Consumed (SCC) and Obesity Prevalence: approximately 87% of obese people do not track their calorie intake,
 
-  physical activity and obesity prevalence.
+indicating a strong positive association between the two variables.
+
+•  pysical Activity Frequency (FAF) and Obesity Prevalence: Seventy percent of obese people report being physically active,
+
+suggesting a weak negative association between physical activity and obesity prevalence.
 
  
-• Obesity Prevalence and Time Spent Using Technological gadgets (TUE): about  60% of obese people  use technology gadgets, indicating a substantial positive link between 
-   
-   obesity prevalence and TUE.
+• Obesity Prevalence and Time Spent Using Technological gadgets (TUE): about  60% of obese people  use technology gadgets, 
 
-• Obesity prevalence and mode of transportation (MTRANS): With 60% of obese people utilizing public transit, there seems to be a moderately favorable association between 
+indicating a substantial positive link between obesity prevalence and TUE.
 
-the two variables unlike 4% from the obese people who uses walking as a mode of transportation.
+• Obesity prevalence and mode of transportation (MTRANS): With 60% of obese people utilizing public transit, 
+
+there seems to be a moderately favorable association between the two variables unlike 4% from the obese people who uses walking as a mode of transportation.
 
 # Conclusion
 
-• Obesity and a family history of overweight are significantly correlated; about 87% of obese people report having an overweight family member. This raises the possibility  
-    that family environments or a genetic predisposition could play a role in obesity.
+• Obesity and a family history of overweight are significantly correlated; about 87% of obese people report having an overweight family member.
+
+This raises the possibility that family environments or a genetic predisposition could play a role in obesity.
 
 • In the population under study, men are more likely than women to be obese. This suggests that the prevalence of obesity in men may be influenced by societal 
 
 and behavioral variables, or that gender may be a major factor in defining the risk factors for obesity.
 
-• When compared to other age groups, the 20–30 year old age range shows a higher prevalence of obesity. According to this research, young individuals in their 20s and 30s 
+• When compared to other age groups, the 20–30 year old age range shows a higher prevalence of obesity. According to this research, 
 
-  are more likely to be obese than other age groups. This may be because of the dietary preferences, lifestyle decisions, and metabolic modifications that come with this 
-  
-  period of life.
+young individuals in their 20s and 30s are more likely to be obese than other age groups. 
+
+This may be because of the dietary preferences, lifestyle decisions, and metabolic modifications that come with this  period of life.
 
 
   
