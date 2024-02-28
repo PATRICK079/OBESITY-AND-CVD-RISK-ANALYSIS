@@ -82,19 +82,18 @@ the two variables unlike 4% from the obese people who uses walking as a mode of 
 
 # Conclusion
 
-• Obesity and a family history of overweight are significantly correlated; about 87% of obese people report having an overweight family member. This raises the possibility that 
+• Obesity and a family history of overweight are significantly correlated; about 87% of obese people report having an overweight family member. This raises the possibility  
+    that family environments or a genetic predisposition could play a role in obesity.
 
-  family environments or a genetic predisposition could play a role in obesity.
+• In the population under study, men are more likely than women to be obese. This suggests that the prevalence of obesity in men may be influenced by societal 
 
-• In the population under study, men are more likely than women to be obese. This suggests that the prevalence of obesity in men may be influenced by societal and 
-
-  behavioral variables, or that gender may be a major factor in defining the risk factors for obesity.
+and behavioral variables, or that gender may be a major factor in defining the risk factors for obesity.
 
 • When compared to other age groups, the 20–30 year old age range shows a higher prevalence of obesity. According to this research, young individuals in their 20s and 30s 
 
-are more likely to be obese than other age groups. This may be because of the dietary preferences, lifestyle decisions, and metabolic modifications that come with this 
-
-period of life.
+  are more likely to be obese than other age groups. This may be because of the dietary preferences, lifestyle decisions, and metabolic modifications that come with this 
+  
+  period of life.
 
 
   
